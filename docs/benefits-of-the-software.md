@@ -1,0 +1,7 @@
+# Benefits of the software
+
+## Task 1:
+
+The software is a solution for a banking application. It's needed to add interactivity between the business's clients and the client's accounts. The REPL interface will make it easier for clients to access their account, deposit funds, withdraw existing funds, and print an account statement. This would mean there are less barriers for clients to transact with the business, which will boost customer satisfaction, efficiency of transactions, and it could give bank employees more time to deal with other issues.
+
+As a possible bonus, the interface will have to display credits and positive balances in green, and debits and negative balances in red. This colour palette will quickly communicate to the end-users the "good" and "bad" numbers they are looking for. Additionally, each account can have an overdraft facility added. This will allow end-users to withdraw an amount from their account that will lead to a negative balance, up to the value of the overdraft.If the overdraft facility is enabled for an account, the value of the overdraft can be configured at the desired value for that account. This allows the business to give their clients an easier option of borrowing money they don't have.
